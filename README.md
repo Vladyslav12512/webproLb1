@@ -8,6 +8,6 @@
 Сторінка на gh pages: https://vladyslav12512.github.io/webproLb1/
 
 
-#Скрін сторінки
+# Скрін сторінки
 
 ![image](https://user-images.githubusercontent.com/116881961/233861173-ae0ab2d2-f8dc-4794-b9f2-18abd3e3dcd0.png)
